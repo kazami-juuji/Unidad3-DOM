@@ -1,0 +1,2 @@
+
+DOM en español significa Modelo de Objeto Documento, o que es lo mismo, la estructura del documento HTML. Una pagina HTML esta formada por multiples etiquetas HTML, anidadas una dentro de otra, formando un arbol de etiquetas relacionadas entre si, que se denomina arbol DOM (o simplemente DOM).
